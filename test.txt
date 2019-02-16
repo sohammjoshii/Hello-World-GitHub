@@ -1,3 +1,1 @@
-Yash Mehrotra -2
-
-Sohamm Joshiii -4
+Hello World code for gitHub
