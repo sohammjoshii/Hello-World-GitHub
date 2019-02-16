@@ -1,1 +1,5 @@
-Hello World code for gitHub
+git init =>For initializing git in a folder
+git add <file-name> =>For bringing files to commit
+git commit -m "Message" =>For commitiing the changes
+git log =>For viewing all commits
+git checkout <commit-nam> =>for taking it to that time
